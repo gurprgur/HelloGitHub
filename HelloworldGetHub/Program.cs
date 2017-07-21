@@ -10,6 +10,7 @@ namespace HelloworldGetHub
     {
         static void Main(string[] args)
         {
+            var i = 1;
         }
     }
 }
